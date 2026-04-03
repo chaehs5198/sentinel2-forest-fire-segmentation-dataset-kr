@@ -1,0 +1,379 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>20220310_2022031_confused2_cluster.img.vat.OID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>20220310_2022031_confused2_cluster.img.vat.Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>20220310_2022031_confused2_cluster.img.vat.Count</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>20220310_2022031_confused2_cluster.img.vat.Red</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>20220310_2022031_confused2_cluster.img.vat.Green</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>20220310_2022031_confused2_cluster.img.vat.Blue</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>20220310_2022031_confused2_cluster.img.vat.Class_Name</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>20220310_2022031_6band_2pass_step3.OID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="8">
+        <Name>20220310_2022031_6band_2pass_step3.LABEL</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="9">
+        <Name>20220310_2022031_6band_2pass_step3.Fire__2022</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>Unclassified</F>
+        <F>0</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>1</F>
+        <F>0</F>
+        <F>0.04</F>
+        <F>0.04</F>
+        <F>0.04</F>
+        <F>Class 1</F>
+        <F>1</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>2</F>
+        <F>162</F>
+        <F>0.08</F>
+        <F>0.08</F>
+        <F>0.08</F>
+        <F>Class 2</F>
+        <F>2</F>
+        <F></F>
+        <F>73</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>3</F>
+        <F>305</F>
+        <F>0.12</F>
+        <F>0.12</F>
+        <F>0.12</F>
+        <F>Class 3</F>
+        <F>3</F>
+        <F></F>
+        <F>38</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>4</F>
+        <F>147</F>
+        <F>0.16</F>
+        <F>0.16</F>
+        <F>0.16</F>
+        <F>Class 4</F>
+        <F>4</F>
+        <F></F>
+        <F>83</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>5</F>
+        <F>0</F>
+        <F>0.2</F>
+        <F>0.2</F>
+        <F>0.2</F>
+        <F>Class 5</F>
+        <F>5</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>6</F>
+        <F>127</F>
+        <F>0.24</F>
+        <F>0.24</F>
+        <F>0.24</F>
+        <F>Class 6</F>
+        <F>6</F>
+        <F></F>
+        <F>74</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>7</F>
+        <F>168</F>
+        <F>0.28</F>
+        <F>0.28</F>
+        <F>0.28</F>
+        <F>Class 7</F>
+        <F>7</F>
+        <F></F>
+        <F>147</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>8</F>
+        <F>263</F>
+        <F>0.32</F>
+        <F>0.32</F>
+        <F>0.32</F>
+        <F>Class 8</F>
+        <F>8</F>
+        <F></F>
+        <F>21</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>9</F>
+        <F>199</F>
+        <F>0.36</F>
+        <F>0.36</F>
+        <F>0.36</F>
+        <F>Class 9</F>
+        <F>9</F>
+        <F></F>
+        <F>130</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>10</F>
+        <F>278</F>
+        <F>0.4</F>
+        <F>0.4</F>
+        <F>0.4</F>
+        <F>Class 10</F>
+        <F>10</F>
+        <F></F>
+        <F>122</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>11</F>
+        <F>124</F>
+        <F>0.44</F>
+        <F>0.44</F>
+        <F>0.44</F>
+        <F>Class 11</F>
+        <F>11</F>
+        <F></F>
+        <F>72</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>12</F>
+        <F>53</F>
+        <F>0.48</F>
+        <F>0.48</F>
+        <F>0.48</F>
+        <F>Class 12</F>
+        <F>12</F>
+        <F></F>
+        <F>17</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>13</F>
+        <F>183</F>
+        <F>0.52</F>
+        <F>0.52</F>
+        <F>0.52</F>
+        <F>Class 13</F>
+        <F>13</F>
+        <F></F>
+        <F>75</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>14</F>
+        <F>0</F>
+        <F>0.5600000000000001</F>
+        <F>0.5600000000000001</F>
+        <F>0.5600000000000001</F>
+        <F>Class 14</F>
+        <F>14</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>15</F>
+        <F>0</F>
+        <F>0.6</F>
+        <F>0.6</F>
+        <F>0.6</F>
+        <F>Class 15</F>
+        <F>15</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>16</F>
+        <F>0</F>
+        <F>0.64</F>
+        <F>0.64</F>
+        <F>0.64</F>
+        <F>Class 16</F>
+        <F>16</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>17</F>
+        <F>0</F>
+        <F>0.6800000000000001</F>
+        <F>0.6800000000000001</F>
+        <F>0.6800000000000001</F>
+        <F>Class 17</F>
+        <F>17</F>
+        <F></F>
+        <F>0</F>
+      </Row>
+      <Row index="18">
+        <F>18</F>
+        <F>18</F>
+        <F>139</F>
+        <F>0.72</F>
+        <F>0.72</F>
+        <F>0.72</F>
+        <F>Class 18</F>
+        <F>18</F>
+        <F></F>
+        <F>7</F>
+      </Row>
+      <Row index="19">
+        <F>19</F>
+        <F>19</F>
+        <F>196</F>
+        <F>0.76</F>
+        <F>0.76</F>
+        <F>0.76</F>
+        <F>Class 19</F>
+        <F>19</F>
+        <F></F>
+        <F>3</F>
+      </Row>
+      <Row index="20">
+        <F>20</F>
+        <F>20</F>
+        <F>209</F>
+        <F>0.8</F>
+        <F>0.8</F>
+        <F>0.8</F>
+        <F>Class 20</F>
+        <F>20</F>
+        <F></F>
+        <F>151</F>
+      </Row>
+      <Row index="21">
+        <F>21</F>
+        <F>21</F>
+        <F>167</F>
+        <F>0.84</F>
+        <F>0.84</F>
+        <F>0.84</F>
+        <F>Class 21</F>
+        <F>21</F>
+        <F></F>
+        <F>139</F>
+      </Row>
+      <Row index="22">
+        <F>22</F>
+        <F>22</F>
+        <F>143</F>
+        <F>0.88</F>
+        <F>0.88</F>
+        <F>0.88</F>
+        <F>Class 22</F>
+        <F>22</F>
+        <F></F>
+        <F>114</F>
+      </Row>
+      <Row index="23">
+        <F>23</F>
+        <F>23</F>
+        <F>130</F>
+        <F>0.92</F>
+        <F>0.92</F>
+        <F>0.92</F>
+        <F>Class 23</F>
+        <F>23</F>
+        <F></F>
+        <F>95</F>
+      </Row>
+      <Row index="24">
+        <F>24</F>
+        <F>24</F>
+        <F>95</F>
+        <F>0.96</F>
+        <F>0.96</F>
+        <F>0.96</F>
+        <F>Class 24</F>
+        <F>24</F>
+        <F></F>
+        <F>9</F>
+      </Row>
+      <Row index="25">
+        <F>25</F>
+        <F>25</F>
+        <F>259056</F>
+        <F>1</F>
+        <F>1</F>
+        <F>1</F>
+        <F>Class 25</F>
+        <F>25</F>
+        <F></F>
+        <F>3215</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,623 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>20160408_2016010_confused_cluster.img.vat.OID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>20160408_2016010_confused_cluster.img.vat.Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>20160408_2016010_confused_cluster.img.vat.Count</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>20160408_2016010_confused_cluster.img.vat.Red</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>20160408_2016010_confused_cluster.img.vat.Green</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>20160408_2016010_confused_cluster.img.vat.Blue</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>20160408_2016010_confused_cluster.img.vat.Class_Name</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>20160408_2016010_6band_2pass_step2.OID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="8">
+        <Name>20160408_2016010_6band_2pass_step2.Fire__2016</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>Unclassified</F>
+        <F>0</F>
+        <F>0</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>1</F>
+        <F>0</F>
+        <F>0.02</F>
+        <F>0.02</F>
+        <F>0.02</F>
+        <F>Class 1</F>
+        <F>1</F>
+        <F>0</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>2</F>
+        <F>0</F>
+        <F>0.04</F>
+        <F>0.04</F>
+        <F>0.04</F>
+        <F>Class 2</F>
+        <F>2</F>
+        <F>0</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>3</F>
+        <F>0</F>
+        <F>0.06</F>
+        <F>0.06</F>
+        <F>0.06</F>
+        <F>Class 3</F>
+        <F>3</F>
+        <F>0</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>4</F>
+        <F>0</F>
+        <F>0.08</F>
+        <F>0.08</F>
+        <F>0.08</F>
+        <F>Class 4</F>
+        <F>4</F>
+        <F>0</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>5</F>
+        <F>277</F>
+        <F>0.1</F>
+        <F>0.1</F>
+        <F>0.1</F>
+        <F>Class 5</F>
+        <F>5</F>
+        <F>0</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>6</F>
+        <F>473</F>
+        <F>0.12</F>
+        <F>0.12</F>
+        <F>0.12</F>
+        <F>Class 6</F>
+        <F>6</F>
+        <F>0</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>7</F>
+        <F>422</F>
+        <F>0.14</F>
+        <F>0.14</F>
+        <F>0.14</F>
+        <F>Class 7</F>
+        <F>7</F>
+        <F>6</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>8</F>
+        <F>586</F>
+        <F>0.16</F>
+        <F>0.16</F>
+        <F>0.16</F>
+        <F>Class 8</F>
+        <F>8</F>
+        <F>3</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>9</F>
+        <F>621</F>
+        <F>0.18</F>
+        <F>0.18</F>
+        <F>0.18</F>
+        <F>Class 9</F>
+        <F>9</F>
+        <F>2</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>10</F>
+        <F>659</F>
+        <F>0.2</F>
+        <F>0.2</F>
+        <F>0.2</F>
+        <F>Class 10</F>
+        <F>10</F>
+        <F>10</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>11</F>
+        <F>583</F>
+        <F>0.22</F>
+        <F>0.22</F>
+        <F>0.22</F>
+        <F>Class 11</F>
+        <F>11</F>
+        <F>0</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>12</F>
+        <F>271</F>
+        <F>0.24</F>
+        <F>0.24</F>
+        <F>0.24</F>
+        <F>Class 12</F>
+        <F>12</F>
+        <F>0</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>13</F>
+        <F>513</F>
+        <F>0.26</F>
+        <F>0.26</F>
+        <F>0.26</F>
+        <F>Class 13</F>
+        <F>13</F>
+        <F>2</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>14</F>
+        <F>661</F>
+        <F>0.28</F>
+        <F>0.28</F>
+        <F>0.28</F>
+        <F>Class 14</F>
+        <F>14</F>
+        <F>1</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>15</F>
+        <F>724</F>
+        <F>0.3</F>
+        <F>0.3</F>
+        <F>0.3</F>
+        <F>Class 15</F>
+        <F>15</F>
+        <F>0</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>16</F>
+        <F>695</F>
+        <F>0.32</F>
+        <F>0.32</F>
+        <F>0.32</F>
+        <F>Class 16</F>
+        <F>16</F>
+        <F>4</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>17</F>
+        <F>646</F>
+        <F>0.34</F>
+        <F>0.34</F>
+        <F>0.34</F>
+        <F>Class 17</F>
+        <F>17</F>
+        <F>1</F>
+      </Row>
+      <Row index="18">
+        <F>18</F>
+        <F>18</F>
+        <F>603</F>
+        <F>0.36</F>
+        <F>0.36</F>
+        <F>0.36</F>
+        <F>Class 18</F>
+        <F>18</F>
+        <F>0</F>
+      </Row>
+      <Row index="19">
+        <F>19</F>
+        <F>19</F>
+        <F>220</F>
+        <F>0.38</F>
+        <F>0.38</F>
+        <F>0.38</F>
+        <F>Class 19</F>
+        <F>19</F>
+        <F>1</F>
+      </Row>
+      <Row index="20">
+        <F>20</F>
+        <F>20</F>
+        <F>525</F>
+        <F>0.4</F>
+        <F>0.4</F>
+        <F>0.4</F>
+        <F>Class 20</F>
+        <F>20</F>
+        <F>2</F>
+      </Row>
+      <Row index="21">
+        <F>21</F>
+        <F>21</F>
+        <F>591</F>
+        <F>0.42</F>
+        <F>0.42</F>
+        <F>0.42</F>
+        <F>Class 21</F>
+        <F>21</F>
+        <F>5</F>
+      </Row>
+      <Row index="22">
+        <F>22</F>
+        <F>22</F>
+        <F>687</F>
+        <F>0.44</F>
+        <F>0.44</F>
+        <F>0.44</F>
+        <F>Class 22</F>
+        <F>22</F>
+        <F>1</F>
+      </Row>
+      <Row index="23">
+        <F>23</F>
+        <F>23</F>
+        <F>600</F>
+        <F>0.46</F>
+        <F>0.46</F>
+        <F>0.46</F>
+        <F>Class 23</F>
+        <F>23</F>
+        <F>0</F>
+      </Row>
+      <Row index="24">
+        <F>24</F>
+        <F>24</F>
+        <F>778</F>
+        <F>0.48</F>
+        <F>0.48</F>
+        <F>0.48</F>
+        <F>Class 24</F>
+        <F>24</F>
+        <F>11</F>
+      </Row>
+      <Row index="25">
+        <F>25</F>
+        <F>25</F>
+        <F>320</F>
+        <F>0.5</F>
+        <F>0.5</F>
+        <F>0.5</F>
+        <F>Class 25</F>
+        <F>25</F>
+        <F>1</F>
+      </Row>
+      <Row index="26">
+        <F>26</F>
+        <F>26</F>
+        <F>143</F>
+        <F>0.52</F>
+        <F>0.52</F>
+        <F>0.52</F>
+        <F>Class 26</F>
+        <F>26</F>
+        <F>116</F>
+      </Row>
+      <Row index="27">
+        <F>27</F>
+        <F>27</F>
+        <F>681</F>
+        <F>0.54</F>
+        <F>0.54</F>
+        <F>0.54</F>
+        <F>Class 27</F>
+        <F>27</F>
+        <F>1</F>
+      </Row>
+      <Row index="28">
+        <F>28</F>
+        <F>28</F>
+        <F>582</F>
+        <F>0.5600000000000001</F>
+        <F>0.5600000000000001</F>
+        <F>0.5600000000000001</F>
+        <F>Class 28</F>
+        <F>28</F>
+        <F>24</F>
+      </Row>
+      <Row index="29">
+        <F>29</F>
+        <F>29</F>
+        <F>584</F>
+        <F>0.58</F>
+        <F>0.58</F>
+        <F>0.58</F>
+        <F>Class 29</F>
+        <F>29</F>
+        <F>0</F>
+      </Row>
+      <Row index="30">
+        <F>30</F>
+        <F>30</F>
+        <F>537</F>
+        <F>0.6</F>
+        <F>0.6</F>
+        <F>0.6</F>
+        <F>Class 30</F>
+        <F>30</F>
+        <F>4</F>
+      </Row>
+      <Row index="31">
+        <F>31</F>
+        <F>31</F>
+        <F>99</F>
+        <F>0.62</F>
+        <F>0.62</F>
+        <F>0.62</F>
+        <F>Class 31</F>
+        <F>31</F>
+        <F>78</F>
+      </Row>
+      <Row index="32">
+        <F>32</F>
+        <F>32</F>
+        <F>345</F>
+        <F>0.64</F>
+        <F>0.64</F>
+        <F>0.64</F>
+        <F>Class 32</F>
+        <F>32</F>
+        <F>1</F>
+      </Row>
+      <Row index="33">
+        <F>33</F>
+        <F>33</F>
+        <F>325</F>
+        <F>0.66</F>
+        <F>0.66</F>
+        <F>0.66</F>
+        <F>Class 33</F>
+        <F>33</F>
+        <F>0</F>
+      </Row>
+      <Row index="34">
+        <F>34</F>
+        <F>34</F>
+        <F>519</F>
+        <F>0.6800000000000001</F>
+        <F>0.6800000000000001</F>
+        <F>0.6800000000000001</F>
+        <F>Class 34</F>
+        <F>34</F>
+        <F>0</F>
+      </Row>
+      <Row index="35">
+        <F>35</F>
+        <F>35</F>
+        <F>583</F>
+        <F>0.7</F>
+        <F>0.7</F>
+        <F>0.7</F>
+        <F>Class 35</F>
+        <F>35</F>
+        <F>2</F>
+      </Row>
+      <Row index="36">
+        <F>36</F>
+        <F>36</F>
+        <F>485</F>
+        <F>0.72</F>
+        <F>0.72</F>
+        <F>0.72</F>
+        <F>Class 36</F>
+        <F>36</F>
+        <F>2</F>
+      </Row>
+      <Row index="37">
+        <F>37</F>
+        <F>37</F>
+        <F>590</F>
+        <F>0.74</F>
+        <F>0.74</F>
+        <F>0.74</F>
+        <F>Class 37</F>
+        <F>37</F>
+        <F>0</F>
+      </Row>
+      <Row index="38">
+        <F>38</F>
+        <F>38</F>
+        <F>670</F>
+        <F>0.76</F>
+        <F>0.76</F>
+        <F>0.76</F>
+        <F>Class 38</F>
+        <F>38</F>
+        <F>1</F>
+      </Row>
+      <Row index="39">
+        <F>39</F>
+        <F>39</F>
+        <F>609</F>
+        <F>0.78</F>
+        <F>0.78</F>
+        <F>0.78</F>
+        <F>Class 39</F>
+        <F>39</F>
+        <F>3</F>
+      </Row>
+      <Row index="40">
+        <F>40</F>
+        <F>40</F>
+        <F>381</F>
+        <F>0.8</F>
+        <F>0.8</F>
+        <F>0.8</F>
+        <F>Class 40</F>
+        <F>40</F>
+        <F>3</F>
+      </Row>
+      <Row index="41">
+        <F>41</F>
+        <F>41</F>
+        <F>560</F>
+        <F>0.82</F>
+        <F>0.82</F>
+        <F>0.82</F>
+        <F>Class 41</F>
+        <F>41</F>
+        <F>0</F>
+      </Row>
+      <Row index="42">
+        <F>42</F>
+        <F>42</F>
+        <F>732</F>
+        <F>0.84</F>
+        <F>0.84</F>
+        <F>0.84</F>
+        <F>Class 42</F>
+        <F>42</F>
+        <F>3</F>
+      </Row>
+      <Row index="43">
+        <F>43</F>
+        <F>43</F>
+        <F>799</F>
+        <F>0.86</F>
+        <F>0.86</F>
+        <F>0.86</F>
+        <F>Class 43</F>
+        <F>43</F>
+        <F>0</F>
+      </Row>
+      <Row index="44">
+        <F>44</F>
+        <F>44</F>
+        <F>743</F>
+        <F>0.88</F>
+        <F>0.88</F>
+        <F>0.88</F>
+        <F>Class 44</F>
+        <F>44</F>
+        <F>4</F>
+      </Row>
+      <Row index="45">
+        <F>45</F>
+        <F>45</F>
+        <F>76</F>
+        <F>0.9</F>
+        <F>0.9</F>
+        <F>0.9</F>
+        <F>Class 45</F>
+        <F>45</F>
+        <F>15</F>
+      </Row>
+      <Row index="46">
+        <F>46</F>
+        <F>46</F>
+        <F>541</F>
+        <F>0.92</F>
+        <F>0.92</F>
+        <F>0.92</F>
+        <F>Class 46</F>
+        <F>46</F>
+        <F>1</F>
+      </Row>
+      <Row index="47">
+        <F>47</F>
+        <F>47</F>
+        <F>0</F>
+        <F>0.94</F>
+        <F>0.94</F>
+        <F>0.94</F>
+        <F>Class 47</F>
+        <F>47</F>
+        <F>0</F>
+      </Row>
+      <Row index="48">
+        <F>48</F>
+        <F>48</F>
+        <F>0</F>
+        <F>0.96</F>
+        <F>0.96</F>
+        <F>0.96</F>
+        <F>Class 48</F>
+        <F>48</F>
+        <F>0</F>
+      </Row>
+      <Row index="49">
+        <F>49</F>
+        <F>49</F>
+        <F>0</F>
+        <F>0.98</F>
+        <F>0.98</F>
+        <F>0.98</F>
+        <F>Class 49</F>
+        <F>49</F>
+        <F>0</F>
+      </Row>
+      <Row index="50">
+        <F>50</F>
+        <F>50</F>
+        <F>240105</F>
+        <F>1</F>
+        <F>1</F>
+        <F>1</F>
+        <F>Class 50</F>
+        <F>50</F>
+        <F>82</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

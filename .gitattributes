@@ -1,0 +1,4 @@
+notebooks/BA_segmentation_2020-2022_v1_UNet_base_0904.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/BA_segmentation_2020-2022_v1_UNet_base_0906.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/BA_segmentation_2020-2022_v1_UNet_base_090602.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/BA_segmentation_2020-2022_v1_UNet_base_090603_(standardized).ipynb filter=lfs diff=lfs merge=lfs -text
